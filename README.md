@@ -33,7 +33,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-off-nung&theme=solarized_dark)
 
-<div id="statistic" align="center">
+<div id="statistic">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-off-nung&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-off-nung&theme=solarized_dark)
