@@ -31,19 +31,17 @@
 
 ✉️  You can shoot me an email at h_off_nung@vk.com! I'll try to respond as soon as I can.  
 
-<!---Карточка профиля: ---!>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-off-nung&theme=solarized_dark)
 
-<!---Статистика языков в коммитах: ---!>
+<div id="statistic" align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h-off-nung&theme=solarized_dark)
 
-<!---Статистика языков в репозиториях: ---!>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h-off-nung&theme=solarized_dark)
 
-<!---Статистика профиля: ---!>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h-off-nung&theme=solarized_dark)
 
-<!---Данные по коммитам за сутки: ---!>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h-off-nung&theme=solarized_dark)
+</div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
