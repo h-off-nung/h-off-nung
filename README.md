@@ -29,7 +29,7 @@
 
 ✍️  In my free time, I read books, improve my programming skills and write poems.  
 
-✉️  You can shoot me an email at h_off_nung@vk.com! I'll try to respond as soon as I can.  
+✉️  You can shoot me an email at hi_off@yahoo.com! I'll try to respond as soon as I can.  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-off-nung&theme=solarized_dark)
 
