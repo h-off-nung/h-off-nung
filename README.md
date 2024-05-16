@@ -1,6 +1,6 @@
 ### Welcome! My name is Kirill 👋
 
-![](https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnc2F0cmh1a2dsNWxvMm1nNXFraHh2ejUzZ3N2aW1wOGd3NWVoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)
 
 <!--
 - 🔭 I’m currently working on my System Software Engineering degree.
