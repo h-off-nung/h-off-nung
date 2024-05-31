@@ -1,8 +1,6 @@
 ### Welcome! My name is Kirill 👋
 
-<center>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=h-off-nung)](https://git.io/streak-stats)
-</center>
 
 - 🔭 I’m currently working on my System Software Engineering degree.
 - 📚 I love reading books and exploring new technologies.
