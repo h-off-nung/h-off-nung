@@ -8,4 +8,4 @@
 - 🗣️ I’m fluent in English, Russian, and German.
 - 🎨 I’m creative and have good soft skills.
 
-#### You can reach me by email at kirill-bobrov@outlook.com
+#### You can reach me by email at bobrov7tech@gmail.com
