@@ -1,4 +1,4 @@
-### Welcome! My name is Kirill 👋
+![Thumbnail](Thumbnail.png)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=h-off-nung)](https://git.io/streak-stats)
 
