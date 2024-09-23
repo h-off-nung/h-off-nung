@@ -3,12 +3,15 @@
 </p>
 
 ## General
-- 🎓 **Student of Software Systems Development** at the University of Hamburg (since 2024).
+- 🎓 **Student of Software Systems Development** at the [University of Hamburg](https://www.uni-hamburg.de/en.html) (since 2024).
 - 🌟 Creative, curious, and ambitious individual passionate about coding and continuous learning.
 - 📚 Love reading books, playing piano, and working on personal projects.
 - 💼 Skilled at organizing team work and sharing knowledge, with strong soft skills to collaborate effectively.
 - 🌍 Fluent in **English**, **Russian**, and **German**.
 - 🚀 Striving to be an innovative leader and an extraordinary developer.
+
+<!--START_SECTION:WakaTime-->
+<!--END_SECTION:WakaTime-->
 
 ## Skills
 - **Communication**: Excellent at finding common language with people, which helps in both team collaboration and project leadership.
