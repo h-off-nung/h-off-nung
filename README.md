@@ -11,6 +11,15 @@
 - 🚀 Striving to be an innovative leader and an extraordinary developer.
 
 <!--START_SECTION:WakaTime-->
+
+```python
+From: 22 September 2024 - To: 23 September 2024
+
+Total Time: 1 hr 8 mins
+
+Other            52 mins         ███████████░░░░░░░░░░░░░░   43.25 %
+```
+
 <!--END_SECTION:WakaTime-->
 
 ## Skills
