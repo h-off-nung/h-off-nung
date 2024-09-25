@@ -14,15 +14,6 @@
 ## [WakaTime](https://wakatime.com/@h_off_nung)
 
 <!--START_SECTION:WakaTime-->
-
-```python
-From: 22 September 2024 - To: 23 September 2024
-
-Total Time: 1 hr 10 mins
-
-Other            52 mins         ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   42.62 %
-```
-
 <!--END_SECTION:WakaTime-->
 
 ## Skills
