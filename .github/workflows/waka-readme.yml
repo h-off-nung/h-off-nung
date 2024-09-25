@@ -6,6 +6,8 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+    # runs at 9:25 AM UTC
+    - cron: "25 9 * * *"
 
 jobs:
   update-readme:
@@ -29,7 +31,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: NOT_SET
