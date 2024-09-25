@@ -14,6 +14,22 @@
 ## [WakaTime](https://wakatime.com/@h_off_nung)
 
 <!--START_SECTION:WakaTime-->
+
+```txt
+From: 22 September 2024 - To: 24 September 2024
+
+Total Time: 3 hrs 41 mins
+
+Swift            2 hrs 6 mins    ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   43.40 %
+Other            1 hr 9 mins     ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.83 %
+Markdown         49 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   17.02 %
+YAML             34 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Git Config       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:WakaTime-->
 
 ## Skills
