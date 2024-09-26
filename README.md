@@ -16,15 +16,20 @@
 <!--START_SECTION:WakaTime-->
 
 ```txt
-From: 22 September 2024 - To: 24 September 2024
+From: 22 September 2024 - To: 25 September 2024
 
-Total Time: 3 hrs 38 mins
+Total Time: 12 hrs 12 mins
 
-Swift        2 hrs 6 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   53.49 %
-Markdown     49 mins         ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.97 %
-YAML         34 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Other        17 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Python             7 hrs 35 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60.80 %
+Swift              2 hrs 6 mins    ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   16.83 %
+YAML               1 hr 20 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Markdown           50 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Other              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Bash               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Git Config         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+textmate           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:WakaTime-->
