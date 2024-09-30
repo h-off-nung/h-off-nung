@@ -16,15 +16,15 @@
 <!--START_SECTION:WakaTime-->
 
 ```txt
-From: 22 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-Total Time: 15 hrs 16 mins
+Total Time: 16 hrs 28 mins
 
-Python             8 hrs 46 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   57.47 %
-Swift              2 hrs 6 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   13.77 %
-YAML               1 hr 43 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Markdown           1 hr 20 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Bash               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python             8 hrs 46 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   53.26 %
+Swift              3 hrs 18 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.08 %
+YAML               1 hr 43 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Markdown           1 hr 20 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Bash               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:WakaTime-->
