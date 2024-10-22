@@ -16,7 +16,7 @@
 <!--START_SECTION:WakaTime-->
 
 ```txt
-From: 22 September 2024 - To: 19 October 2024
+From: 22 September 2024 - To: 20 October 2024
 
 Total Time: 25 hrs 14 mins
 
