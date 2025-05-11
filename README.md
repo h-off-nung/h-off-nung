@@ -9,7 +9,6 @@
 - 💼 Skilled at organizing team work and sharing knowledge, with strong soft skills to collaborate effectively.
 - 🌍 Fluent in **English**, **Russian**, and **German**.
 - 🚀 Striving to be an innovative leader and an extraordinary developer.
-- 📮 You can reach me by email at bobrov7tech@gmail.com.
 
 ## [WakaTime](https://wakatime.com/@h_off_nung)
 
