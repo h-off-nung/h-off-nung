@@ -15,15 +15,15 @@
 <!--START_SECTION:WakaTime-->
 
 ```txt
-From: 22 September 2024 - To: 09 June 2025
+From: 22 September 2024 - To: 10 June 2025
 
-Total Time: 57 hrs 3 mins
+Total Time: 57 hrs 53 mins
 
-Markdown           29 hrs 2 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   50.89 %
-Swift              12 hrs 1 min    ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   21.09 %
-Python             9 hrs 57 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   17.44 %
-YAML               1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Dart               1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Markdown           29 hrs 52 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   51.60 %
+Swift              12 hrs 1 min    ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.78 %
+Python             9 hrs 57 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   17.19 %
+YAML               1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Dart               1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:WakaTime-->
