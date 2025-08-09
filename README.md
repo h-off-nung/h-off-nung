@@ -15,7 +15,7 @@
 <!--START_SECTION:WakaTime-->
 
 ```txt
-From: 22 September 2024 - To: 06 August 2025
+From: 22 September 2024 - To: 07 August 2025
 
 Total Time: 93 hrs 37 mins
 
